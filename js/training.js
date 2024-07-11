@@ -1,2 +1,2 @@
 import {} from "neuralnetwork.js";
-import {}  from "linearalgebra.js";
+import {} from "linearalgebra.js";
