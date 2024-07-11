@@ -18,5 +18,7 @@ function ArrayRank(ArrayA) {
 }
 
 function ArrayShape(ArrayA) {
-    
+    for (let Index = 0; Index < ArrayA.length; Index++) {
+        
+    }
 }
